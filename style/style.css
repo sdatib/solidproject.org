@@ -455,10 +455,12 @@ footer .row .col-md-12>a>img {
         margin-left: 50px;
         width: 85%;
     }
-    .community_page .section_three #collapseOne .col-md-3{
+
+    /* not sure what this does, commenting it out for now: */
+    /* .community_page .section_three #collapseTwentyTwenty .col-md-3{
         flex: 0 0 100%;
         width: 100%;
-    }
+    } */
 
     .community_page .section_three .accordion-body .row .col-md-3 {
         flex: 0 0 100%;
